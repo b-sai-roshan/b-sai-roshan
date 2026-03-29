@@ -75,9 +75,9 @@ class SaiRoshan:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-sai-roshan&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=b-sai-roshan&theme=github-dark-blue&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-sai-roshan&layout=compact&theme=github_dark&hide_border=true&title_color=00F5FF&text_color=ffffff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-sai-roshan&layout=compact&theme=github_dark&hide_border=true&title_color=00F5FF&text_color=ffffff)](https://github.com/b-sai-roshan)
 
 </div>
 
@@ -98,7 +98,7 @@ class SaiRoshan:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=b-sai-roshan&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS)
 
-<img src="https://raw.githubusercontent.com/b-sai-roshan/b-sai-roshan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 *"I may not speak every coding language — but I speak the language of getting things done."* 🔥
 
