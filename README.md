@@ -46,13 +46,11 @@ class SaiRoshan:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00F5FF)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00F5FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=00F5FF)
 ![Claude](https://img.shields.io/badge/Claude%20AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=00F5FF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F5FF)
+
 
 </div>
 
