@@ -75,7 +75,7 @@ class SaiRoshan:
 
 <div align="center">
 
-![Sai Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-sai-roshan&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-sai-roshan&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-sai-roshan&layout=compact&theme=github_dark&hide_border=true&title_color=00F5FF&text_color=ffffff)
 
