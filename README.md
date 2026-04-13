@@ -17,20 +17,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SaiRoshan:
-    name        = "B Sai Roshan"
-    degree      = "B.Tech in AI & Machine Learning"
-    year        = "2nd Year"
-    superpower  = "I can build ANYTHING using AI 🤖"
-    passion     = ["IoT Projects", "Team Leadership", "AI-powered Solutions"]
-    team_role   = "The guy who leads, manages & delivers 🎯"
-    
-    def what_drives_me(self):
-        return "I don't just write code — I make AI write it for me 😎"
-```
+🧠 **SaiRoshan**
 
----
+Name        → B Sai Roshan  
+Degree      → B.Tech in AI & Machine Learning  
+Year        → 2nd Year  
+Superpower  → I can build ANYTHING using AI 🤖  
+Passion     → IoT Projects • Team Leadership • AI-powered Solutions  
+Team Role   → The guy who leads, manages & delivers 🎯  
+
+💬 *I don't just write code — I make AI write it for me 😎*
 
 ## ⚡ What I Bring to the Table
 
